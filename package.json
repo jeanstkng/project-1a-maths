@@ -1,6 +1,6 @@
 {
   "name": "project-1a-maths",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple Math Project for npm",
   "main": "index.js",
   "scripts": {
