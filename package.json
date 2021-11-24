@@ -1,0 +1,25 @@
+{
+  "name": "project-1a-maths",
+  "version": "1.0.0",
+  "description": "Simple Math Project for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanstkng/project-1a-maths.git"
+  },
+  "keywords": [
+    "math",
+    "matematica",
+    "plus",
+    "minus"
+  ],
+  "author": "Jean Castillo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanstkng/project-1a-maths/issues"
+  },
+  "homepage": "https://github.com/jeanstkng/project-1a-maths#readme"
+}
